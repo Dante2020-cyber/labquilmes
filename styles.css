@@ -1,0 +1,217 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1280px;
+	 height: 1024px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1280px;
+	 height: 1024px;
+	 z-index:1;
+} 
+
+ #Layer1 
+{ 
+	 left: 320px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 320px;
+	 height: 320px;
+	 z-index:2;
+} 
+
+ #Layer2 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 320px;
+	 height: 320px;
+	 z-index:3;
+} 
+
+ #Layer3 
+{ 
+	 left: 640px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 320px;
+	 height: 320px;
+	 z-index:4;
+} 
+
+ #Layer4 
+{ 
+	 left: 960px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 320px;
+	 height: 320px;
+	 z-index:5;
+} 
+
+ #Layer5 
+{ 
+	 left: 0px; 
+	 top: 320px; 
+	 position: absolute; 
+	 width: 320px;
+	 height: 320px;
+	 z-index:6;
+} 
+
+ #Layer6 
+{ 
+	 left: 320px; 
+	 top: 320px; 
+	 position: absolute; 
+	 width: 320px;
+	 height: 320px;
+	 z-index:7;
+} 
+
+ #Layer7 
+{ 
+	 left: 640px; 
+	 top: 320px; 
+	 position: absolute; 
+	 width: 320px;
+	 height: 320px;
+	 z-index:8;
+} 
+
+ #Layer8 
+{ 
+	 left: 960px; 
+	 top: 640px; 
+	 position: absolute; 
+	 width: 320px;
+	 height: 320px;
+	 z-index:9;
+} 
+
+ #Layer13 
+{ 
+	 left: 422px; 
+	 top: 954px; 
+	 position: absolute; 
+	 width: 68px;
+	 height: 68px;
+	 z-index:10;
+} 
+
+ #layer_1157077530 
+{ 
+	 left: 518px; 
+	 top: 976px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 24px;
+	 z-index:11;
+} 
+
+ #Layer14 
+{ 
+	 left: 749px; 
+	 top: 964px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 49px;
+	 z-index:12;
+} 
+
+ #Layer15 
+{ 
+	 left: 813px; 
+	 top: 963px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 50px;
+	 z-index:13;
+} 
+
+ #kodaklabquilmes 
+{ 
+	 left: 896px; 
+	 top: 976px; 
+	 position: absolute; 
+	 width: 288px;
+	 height: 31px;
+	 z-index:14;
+} 
+
+ #conectateyseguinos 
+{ 
+	 left: 46px; 
+	 top: 974px; 
+	 position: absolute; 
+	 width: 338px;
+	 height: 31px;
+	 z-index:15;
+} 
+
+ #Layer16 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 320px;
+	 height: 320px;
+	 z-index:16;
+} 
+
+ #Layer9 
+{ 
+	 left: 960px; 
+	 top: 320px; 
+	 position: absolute; 
+	 width: 320px;
+	 height: 320px;
+	 z-index:17;
+} 
+
+ #Layer10 
+{ 
+	 left: 0px; 
+	 top: 640px; 
+	 position: absolute; 
+	 width: 320px;
+	 height: 320px;
+	 z-index:18;
+} 
+
+ #Layer11 
+{ 
+	 left: 320px; 
+	 top: 640px; 
+	 position: absolute; 
+	 width: 320px;
+	 height: 320px;
+	 z-index:19;
+} 
+
+ #Layer12 
+{ 
+	 left: 640px; 
+	 top: 640px; 
+	 position: absolute; 
+	 width: 320px;
+	 height: 320px;
+	 z-index:20;
+} 
